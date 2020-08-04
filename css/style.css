@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #F4F4F4;
+}
+
+.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container{
+    margin-top: 5vh;
+    width: 30vw;
+    height: 90vh;
+    background: white;
+    -moz-box-shadow:    3px 3px 15px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.card-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #7FC0FC;
+}
+
+#dog{
+    width: 35vw;
+    height: 35vh;
+}
+
+#icon{
+    margin-left: -23vw;
+    margin-top: 3vh;
+}
+
+.discriptions{
+    margin-top: 4.3vh;
+    margin-left: 3.5vw;
+    margin-right: 3vw;
+}
+
+.title{
+    /* color: #797979; */
+    font-size: 2vw;
+}
+
+.row-texts{
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2vw;
+}
+
+.breed,.size,.age{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #797979;
+}
+
+.breed{
+    padding-right: 1.2vw;
+    border-right: 2px solid #ccc;
+}
+
+.size{
+    padding-right: 1.2vw;
+    padding-left: 1.2vw;
+    border-right: 2px solid #ccc;
+}
+
+.age{
+    padding-left: 1.2vw;
+}
+
+.bolder-texts{
+    font-weight: 600; 
+    color: black; 
+}
+
+.border{
+    margin-top: 1.3vh;
+    box-shadow: 0.8px 0.8px 0.8px 0.8px #ccc; 
+}
+
+.about{
+    margin-top: 1vh;
+}
