@@ -111,4 +111,11 @@ body{
     flex-direction: row;
     justify-content: flex-end;
     padding-top: 3.5vh;
+    color: #0b87fa;
 }
+
+#right-icon{
+    padding: 0px 2.5vw 0px 1.5vw;
+}
+
+/* Media Queries*/
