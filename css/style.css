@@ -184,7 +184,7 @@ body{
 
 
 /* for bigger phones and tablets*/
-@media only screen and (min-width:401px) and (max-width:960px){
+@media only screen and (min-width:401px) and (max-width:750px){
     .card-container{
         width: 90vw;
         height: 90vh;
@@ -238,4 +238,47 @@ body{
     #right-icon{
         width: 12vw;;
     }
+
+    .title{
+        font-size: 3vh;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width: 960px), (width:1024px){
+    .card-container{
+        width: 65vw;
+        height: 90vh;
+    }
+
+    #dog{
+        width: 80vw;
+        height: 30vh;
+    }
+
+     #left-icon{
+        margin-left: -55vw;
+        margin-top: 3vh;
+    }
+
+    .about{
+        margin-top: 5vh;
+        font-size: 4vw;
+    }
+
+    .row-texts{
+        font-size: 3vw;
+    }
+
+    .discriptions{
+        margin-left: 6vw;
+        margin-right: 6vw;
+    }
+
+    .breed,.size{
+        padding-right: 2vw;
+    }
+
+    .footer-text{
+        font-weight: 800; 
+        font-size: 2vw;
 }
