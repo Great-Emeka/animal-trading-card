@@ -110,7 +110,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    padding-top: 3vh;
+    padding-top: 4.5vh;
     color: #0b87fa;
 }
 
@@ -196,7 +196,7 @@ body{
     }
 
     #left-icon{
-        margin-left: -60vw;
+        margin-left: -70vw;
         margin-top: 3vh;
     }
 
@@ -227,7 +227,7 @@ body{
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
-        padding-top: 3vh;
+        padding-top: 4vh;
         color: #0b87fa;
     }
     
