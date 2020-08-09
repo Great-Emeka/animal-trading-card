@@ -13,7 +13,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 77vh;
 }
 
 .card-container{
@@ -63,7 +63,7 @@ body{
 
 .title{
     /* color: #797979; */
-    font-size: 5px;
+    font-size: 25px;
 }
 
 .row-texts{
@@ -215,7 +215,7 @@ body{
 
     .about{
         margin-top: 50px;
-        font-size: 25px;
+        font-size: 24px;
     }
 
     .row-texts{
@@ -253,7 +253,7 @@ body{
     }
 
     .title{
-        font-size: 3vh;
+        font-size: 25px;
     }
 }
 
