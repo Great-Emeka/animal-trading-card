@@ -56,22 +56,23 @@ body{
 }
 
 .discriptions{
-    margin-top: 4.3vh;
+    margin-top: 20px;
     margin-left: 3.5vw;
     margin-right: 3vw;
 }
 
 .title{
     /* color: #797979; */
-    font-size: 3.8vh;
+    font-size: 5px;
 }
 
 .row-texts{
-    margin-top: 2vh;
+    margin-top: 1px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-size: 1.2vw;
+    font-size: 5px;
+    margin-top: 25px;
 }
 
 .breed,.size,.age{
@@ -107,7 +108,7 @@ body{
 }
 
 .about{
-    margin-top: 5vh;
+    margin-top: 15px;
 }
 
 .footer{
@@ -213,8 +214,8 @@ body{
     }
 
     .about{
-        margin-top: 5vh;
-        font-size: 5vw;
+        margin-top: 50px;
+        font-size: 25px;
     }
 
     .row-texts{
@@ -232,19 +233,19 @@ body{
 
     .footer-text{
         font-weight: 800; 
-        font-size: 3.5vw;
+        font-size: 20px;
     }
 
     .footer-nav{
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
-        padding-top: 2vh;
+        padding-top: 50px;
         color: #0b87fa;
     }
     
     .footer-nav{
-        padding-top: 2vh;
+        padding-top: 50px;
     }
 
     #right-icon{
