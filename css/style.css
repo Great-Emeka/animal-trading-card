@@ -13,13 +13,12 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 80vh;
 }
 
 .card-container{
-    margin-top: 100px;
-    width: 35vw;
-    /* height: 80vh; */
+    margin-top: 5vh;
+    width: 30vw;
+    height: 85vh;
     background: white;
     -moz-box-shadow:    3px 3px 15px 6px #ccc;
     -webkit-box-shadow: 3px 3px 5px 6px #ccc;
@@ -56,23 +55,22 @@ body{
 }
 
 .discriptions{
-    margin-top: 20px;
+    margin-top: 4.3vh;
     margin-left: 3.5vw;
     margin-right: 3vw;
 }
 
 .title{
     /* color: #797979; */
-    font-size: 5px;
+    font-size: 3.8vh;
 }
 
 .row-texts{
-    margin-top: 1px;
+    margin-top: 2vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-size: 5px;
-    margin-top: 20px;
+    font-size: 1.2vw;
 }
 
 .breed,.size,.age{
@@ -108,7 +106,7 @@ body{
 }
 
 .about{
-    margin-top: 11px;
+    margin-top: 5vh;
 }
 
 .footer{
@@ -123,7 +121,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    padding-top: 2px;
+    padding-top: 2.5vh;
     color: #0b87fa;
 }
 
@@ -156,7 +154,7 @@ body{
     }
 
     .about{
-        margin-top: 11px;
+        margin-top: 5vh;
         font-size: 5vw;
     }
 
@@ -205,7 +203,7 @@ body{
 
     #dog{
         width: 80vw;
-        height: 30vh;
+        height: 33vh;
     }
 
     #left-icon{
@@ -214,8 +212,8 @@ body{
     }
 
     .about{
-        margin-top: 40px;
-        font-size: 18px;
+        margin-top: 5vh;
+        font-size: 5vw;
     }
 
     .row-texts{
@@ -233,19 +231,19 @@ body{
 
     .footer-text{
         font-weight: 800; 
-        font-size: 20px;
+        font-size: 3.5vw;
     }
 
     .footer-nav{
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
-        padding-top: 50px;
+        padding-top: 4vh;
         color: #0b87fa;
     }
     
     .footer-nav{
-        padding-top: 50px;
+        padding-top: 4vh;
     }
 
     #right-icon{
@@ -253,7 +251,7 @@ body{
     }
 
     .title{
-        font-size: 30px;
+        font-size: 3vh;
     }
 }
 
@@ -294,5 +292,4 @@ body{
     .footer-text{
         font-weight: 800; 
         font-size: 2vw;
-    }
 }
