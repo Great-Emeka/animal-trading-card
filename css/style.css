@@ -72,7 +72,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     font-size: 5px;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 .breed,.size,.age{
@@ -108,7 +108,7 @@ body{
 }
 
 .about{
-    margin-top: 15px;
+    margin-top: 11px;
 }
 
 .footer{
@@ -156,7 +156,7 @@ body{
     }
 
     .about{
-        margin-top: 5vh;
+        margin-top: 11px;
         font-size: 5vw;
     }
 
@@ -214,8 +214,8 @@ body{
     }
 
     .about{
-        margin-top: 48px;
-        font-size: 20px;
+        margin-top: 40px;
+        font-size: 18px;
     }
 
     .row-texts{
