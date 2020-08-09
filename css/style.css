@@ -214,8 +214,8 @@ body{
     }
 
     .about{
-        margin-top: 50px;
-        font-size: 25px;
+        margin-top: 48px;
+        font-size: 20px;
     }
 
     .row-texts{
@@ -253,7 +253,7 @@ body{
     }
 
     .title{
-        font-size: 3vh;
+        font-size: 30px;
     }
 }
 
